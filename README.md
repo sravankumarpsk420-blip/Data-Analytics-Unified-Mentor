@@ -59,17 +59,17 @@ The SQL analysis covered **15,316 records across 127 countries**, revealing the 
 
 ---
 📊 Power BI Dashboard Features
-
+---
 ⦁	Medal distribution visuals
 ⦁	Country-level comparisons
 ⦁	Gender participation trends
 ⦁	Sport-wise medal analysis
 ⦁	Interactive filters & slicers
----
+
 
 ---
 ## **📌 Conclusion & Summary Insights**
-
-The analysis of Summer Olympic data (1976–2008) reveals consistent dominance by a small group of countries, with the United States, Soviet Union, China, Germany, and Australia leading across most sports. Visual trends highlight a significant rise in women’s participation and medal achievements over time, alongside clear sport-specific specialization among nations. Forecasting based on historical patterns provides reasonable baseline estimates for future Olympic performance. Overall, this project demonstrates a complete end-to-end analytics workflow, delivering clear insights through Python, SQL, and Power BI.
 ---
+The analysis of Summer Olympic data (1976–2008) reveals consistent dominance by a small group of countries, with the United States, Soviet Union, China, Germany, and Australia leading across most sports. Visual trends highlight a significant rise in women’s participation and medal achievements over time, alongside clear sport-specific specialization among nations. Forecasting based on historical patterns provides reasonable baseline estimates for future Olympic performance. Overall, this project demonstrates a complete end-to-end analytics workflow, delivering clear insights through Python, SQL, and Power BI.
+
 
