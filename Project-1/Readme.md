@@ -1,4 +1,4 @@
-# Data-Analytics-Unified-Mentor
+
 🏅 Olympic Data Analysis (1976–2008)
 A Complete End-to-End Data Analytics Project | • Excel • Python • SQL • Power BI
 
@@ -36,20 +36,20 @@ List the tools or languages used in this project:
 ---
 📊 Key Insights
 ---
-⦁	Medal concentration is highly skewed — a handful of countries (USA, Soviet Union, Australia, Germany, China) dominate the medal tally.
-⦁	USA leads with 1992 total medals during 1976–2008.
-⦁	Gender participation increased significantly, with women earning 5928 medals vs 9388 by men.
-⦁	Country specialization observed in sports like swimming, athletics, and gymnastics.
-⦁	Forecasting generated estimated medal counts for 2012, 2016, 2020 based on historical trends.
+-	Medal concentration is highly skewed — a handful of countries (USA, Soviet Union, Australia, Germany, China) dominate the medal tally.
+-	USA leads with 1992 total medals during 1976–2008.
+-	Gender participation increased significantly, with women earning 5928 medals vs 9388 by men.
+-	Country specialization observed in sports like swimming, athletics, and gymnastics.
+-	Forecasting generated estimated medal counts for 2012, 2016, 2020 based on historical trends.
 
 
 ---
 📈 Machine Learning Forecasting
 ---
 Using a Random Forest Regressor, future medal counts were predicted for:
-⦁	2012 Olympics
-⦁	2016 Olympics
-⦁	2020 Olympics
+-	2012 Olympics
+-	2016 Olympics
+-	2020 Olympics
 
 Predictions were later exported into an Excel file.
 
@@ -63,11 +63,11 @@ The SQL analysis covered **15,316 records across 127 countries**, revealing the 
 ---
 📊 Power BI Dashboard Features
 ---
-⦁	Medal distribution visuals
-⦁	Country-level comparisons
-⦁	Gender participation trends
-⦁	Sport-wise medal analysis
-⦁	Interactive filters & slicers
+-	Medal distribution visuals
+-	Country-level comparisons
+-	Gender participation trends
+-	Sport-wise medal analysis
+-	Interactive filters & slicers
 
 
 ---
