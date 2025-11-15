@@ -1,5 +1,5 @@
 
-🏅 Olympic Data Analysis (1976–2008)
+***🏅 Olympic Data Analysis (1976–2008)***
 A Complete End-to-End Data Analytics Project | • Excel • Python • SQL • Power BI
 
 This project presents an in-depth analysis of Summer Olympic medal winners (1976–2008) using Excel, Python, SQL, and Power BI.
