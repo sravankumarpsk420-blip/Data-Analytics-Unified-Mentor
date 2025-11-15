@@ -30,6 +30,7 @@ List the tools or languages used in this project:
 5. **Interpretation** – Extracted key findings and recommendations.
 ---
 
+---
 📊 Key Insights
 
 ⦁	Medal concentration is highly skewed — a handful of countries (USA, Soviet Union, Australia, Germany, China) dominate the medal tally.
@@ -37,7 +38,9 @@ List the tools or languages used in this project:
 ⦁	Gender participation increased significantly, with women earning 5928 medals vs 9388 by men.
 ⦁	Country specialization observed in sports like swimming, athletics, and gymnastics.
 ⦁	Forecasting generated estimated medal counts for 2012, 2016, 2020 based on historical trends.
+---
 
+---
 📈 Machine Learning Forecasting
 
 Using a Random Forest Regressor, future medal counts were predicted for:
@@ -46,11 +49,15 @@ Using a Random Forest Regressor, future medal counts were predicted for:
 ⦁	2020 Olympics
 
 Predictions were later exported into an Excel file.
+---
 
+---
 📌 SQL Summary Output
 
 The SQL analysis covered **15,316 records across 127 countries**, revealing the United States as the top performer with **1992 medals**, followed by the Soviet Union, Australia, Germany, and China. Gender analysis showed **9,388 medals for men** and **5,928 for women**, reflecting growing female participation. Additional SQL queries identified top athletes and highlighted clear country- and sport-wise dominance patterns across the Olympic years.
+---
 
+---
 📊 Power BI Dashboard Features
 
 ⦁	Medal distribution visuals
@@ -58,9 +65,11 @@ The SQL analysis covered **15,316 records across 127 countries**, revealing the 
 ⦁	Gender participation trends
 ⦁	Sport-wise medal analysis
 ⦁	Interactive filters & slicers
+---
 
+---
 ## **📌 Conclusion & Summary Insights**
 
 The analysis of Summer Olympic data (1976–2008) reveals consistent dominance by a small group of countries, with the United States, Soviet Union, China, Germany, and Australia leading across most sports. Visual trends highlight a significant rise in women’s participation and medal achievements over time, alongside clear sport-specific specialization among nations. Forecasting based on historical patterns provides reasonable baseline estimates for future Olympic performance. Overall, this project demonstrates a complete end-to-end analytics workflow, delivering clear insights through Python, SQL, and Power BI.
-
+---
 
