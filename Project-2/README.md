@@ -15,11 +15,11 @@ However, a major portion of the analysis began with the data cleanining due to l
 **Dataset Overview**
 ---
 Columns:
-    ⦁	product_title
-    ⦁	original_price
-    ⦁	price
-    ⦁	sold
-    ⦁	tag_text
+    -	product_title
+    -	original_price
+    -	price
+    -	sold
+-	tag_text
 This dataset provides insights into consumer buying patters and market trendswithin online furniture retail.
 
 ---
@@ -35,10 +35,10 @@ Machine learning algorithms require more complete data, using only 484 rows woul
 To resolve missing values:
 
 Approach
-⦁	Predicted missing original_price values using Multiple Linear Regression (MLR)
-⦁	Dependent variable: original_price
-⦁	Independent variables: price, sold, tag_text
-⦁	MLR method was selected because:
+-	Predicted missing original_price values using Multiple Linear Regression (MLR)
+-	Dependent variable: original_price
+-	Independent variables: price, sold, tag_text
+-	MLR method was selected because:
 	Traditional ML models were not suitable due to small available training data.
 	MLR provides stable, interpretable outputs suitable for numeric imputation.
 
