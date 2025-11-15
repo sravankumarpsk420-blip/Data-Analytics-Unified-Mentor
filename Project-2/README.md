@@ -19,7 +19,7 @@ Columns:
     -	original_price
     -	price
     -	sold
--	tag_text
+	-	tag_text
 This dataset provides insights into consumer buying patters and market trendswithin online furniture retail.
 
 ---
@@ -43,9 +43,9 @@ Approach
 	MLR provides stable, interpretable outputs suitable for numeric imputation.
 
 Outcome
-⦁	All 1516 missing values were successfully predicted.
-⦁	The dataset became complete and analysis-ready.
-⦁	Each stage of;
+-	All 1516 missing values were successfully predicted.
+-	The dataset became complete and analysis-ready.
+-	Each stage of;
 	    Missing value identification
 	    MLR modeling
 	    Value prediction
@@ -57,10 +57,10 @@ Outcome
 ---
 
 SQL queries were written to analyze:
-⦁	Sales distribution
-⦁	Price ranges
-⦁	Shipping mode breakdown
-⦁	Revenue distribution patterns
+-	Sales distribution
+-	Price ranges
+-   Shipping mode breakdown
+-	Revenue distribution patterns
 
 This enabled verification of trends before modeling or visualization.
 
@@ -69,27 +69,27 @@ This enabled verification of trends before modeling or visualization.
 ---
 
 An interactive dashboard was built using DAX measures.
-⦁	Top 10 contributors to total sales.
-⦁	Top 10 best-selling products.
+-	Top 10 contributors to total sales.
+-	Top 10 best-selling products.
 
 ---
 **Key Insights**
 ---
 
-⦁	Free Shipping products generated ~2 million in total revenue.
-⦁	94% of all products offer Free Shipping, and 6% have additional shipping costs.
-⦁	The average discount across all products is 53.28%
-⦁	Significant dependence on discounted pricing for sales conversions.
+-	Free Shipping products generated ~2 million in total revenue.
+-	94% of all products offer Free Shipping, and 6% have additional shipping costs.
+-	The average discount across all products is 53.28%
+-	Significant dependence on discounted pricing for sales conversions.
 
 ---
 **Conclusion**
 ---
 
 This project successfully demonstrates:
-⦁	End-to-end data cleaning, imputation, analysis and visualization.
-⦁	Practical use of MLR to solve missing-value problems in real-world datasets.
-⦁	Integration of Python + SQL + Power BI for a complete project workflow.
-⦁	Clear insights into pricing strategy, discounting and shipping impact on sales.
+-	End-to-end data cleaning, imputation, analysis and visualization.
+-	Practical use of MLR to solve missing-value problems in real-world datasets.
+-	Integration of Python + SQL + Power BI for a complete project workflow.
+-	Clear insights into pricing strategy, discounting and shipping impact on sales.
 
 The cleaned dataset, dashboards, SQL queries, Python notebooks and Top 10 products CSV are organized for easy reference and reproducibility.
 
