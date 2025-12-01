@@ -16,6 +16,8 @@ Build a Random Forest model to predict accident outcomes.
 Generate SQL-based summary metrics.
 Provide safety recommendations based on analytical insights.
 
+---
+
 ### Dataset Description
 Million plus cities
 Cause Category (Traffic Control, Junction, Road Features, Weather, Impacting Vehicle/Object, etc.)
@@ -23,9 +25,13 @@ Cause Subcategory (e.g., Overtaking, Sunny/Clear, Others)
 Outcome of Incident (Minor Injury, Grievously Injured, Persons Killed, Total Injured, Total Accidents)
 Count (in millions)
 
+---
+
 The Exploratory Data Analysis highlights key accident patterns across major Indian cities. A bar chart of the top 10 cities shows that Chennai reports the highest number of accidents, while Amritsar records the lowest, indicating large variation in traffic exposure and road conditions. Analysis of accident categories using bar plots reveals that incidents are distributed across multiple major causes, including Road Features, Traffic Control, Junction issues, Traffic Violations, and Weather Conditions, showing no single dominant category.
 
 Subcategory analysis using histogram and line plots shows that ‘Others’, ‘Sunny/Clear’, and ‘Overtaking’ are the most frequently reported specific causes, emphasizing reporting gaps and behavioural risk factors. The outcome distribution visualized through a pie chart indicates that Minor Injuries, Grievously Injured, Persons Killed, and Total Accidents each contribute approximately 20.9% of records, while Total Injured accounts for about 16.2%, reflecting a balanced distribution across severity levels.
+
+---
 
 ### Machine Learning Model Summary (Prediction)
 
@@ -38,6 +44,8 @@ This model was selected for its robustness and ability to handle categorical var
 
 A total of 989,334 accidents were recorded. Accident distribution across major cause categories showed that Road Features, Traffic Control, Junction, Traffic Violation, and Weather Conditions each accounted for approximately 173,300 incidents, while Impacting Vehicle/Object contributed 122,793 accidents, making it the least frequent primary cause category. Across subcategories, ‘Others’ recorded the highest number of incidents (283,486), followed by ‘Sunny/Clear’ (126,904) and ‘Overtaking’ (123,013). City-wise patterns revealed high fatality percentages in Ludhiana (27%), Asansol–Durgapur (26%), and Amritsar (24%), whereas Kochi reported a significantly lower fatality rate of 2.9%. Chennai had the highest total accidents (78,459), while Amritsar had the lowest (1,645), showcasing major variations in traffic exposure and road safety conditions across cities.
 
+---
+
 ### Key Findings
 
 Road Features, Traffic Control, and Junction-related issues are leading contributors.
@@ -45,6 +53,8 @@ Road Features, Traffic Control, and Junction-related issues are leading contribu
 High fatality cities like Ludhiana require urgent intervention.
 Cities with high accident volume (e.g., Chennai) need road design and enforcement improvements.
 Prediction accuracy is low → dataset requires richer features.
+
+---
 
 ### Safety Measures & Recommendations
 To reduce accident frequency and severity, the following key measures are recommended:
