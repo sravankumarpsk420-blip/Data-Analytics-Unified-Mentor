@@ -6,6 +6,8 @@
 This project analyzes road accident data from 50 million-plus Indian cities for the year 2020. The dataset records accident causes, subcategories, outcomes, and counts (in millions).
 The purpose of this study is to understand accident patterns, identify high-risk cities and causes, and support regulatory authorities in strengthening urban road safety.
 
+---
+
 ### Objectives
 Analyze accident causes across major cities.
 Identify dominant cause categories and subcategories.
@@ -53,6 +55,12 @@ Technology adoption: Promote vehicle safety features (ABS, ADAS) and deploy real
 Emergency response enhancement: Improve coordination among police, hospitals, and emergency units to reduce response time and improve survival outcomes.
 Data-driven monitoring: Continuously analyze accident patterns to update risk zones and evaluate the effectiveness of safety interventions.
 
+---
+
 ### Conclusion
 The analysis highlights significant variation in accident patterns across Indian cities. Some cities face extremely high fatality rates, while others record high accident frequencies. Major accident causes include road design and traffic control failures, while behavioural factors like overtaking also play a critical role.
 With improved data collection, targeted infrastructural reforms, and stronger enforcement, road accident severity and frequency can be substantially reduced.
+
+🔗 Connect With Me
+
+👉 LinkedIn: [www.linkedin.com/in/ponnaluri-sravan-kumar-b06567339](https://www.linkedin.com/in/ponnaluri-sravan-kumar-b06567339/)
