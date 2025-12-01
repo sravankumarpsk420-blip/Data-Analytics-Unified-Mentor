@@ -1,5 +1,4 @@
 
-
 # Coffee Sales Analysis (2024)
 Exploring temporal trends, customer purchase behaviour and product performance to uncover actionable insights for improving vending machine operations.
 
