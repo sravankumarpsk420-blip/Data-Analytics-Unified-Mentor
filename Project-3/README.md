@@ -1,6 +1,7 @@
 
 
 # Coffee Sales Analysis (2024)
+Exploring temporal trends, customer purchase behaviour and product performance to uncover actionable insights for improving vending machine operations.
 
 ## Project Overview
 This project analyzes coffee sales data from a vending machine spanning **March 2024 to July 2024**. The dataset captures daily transaction records, including coffee types, quantity sold, revenue generated, payment methods, and purchase timings. The primary goal of this analysis is to uncover sales patterns, top-performing products, revenue trends, and customer behavior, providing actionable insights for business optimization.
