@@ -93,3 +93,8 @@ This project successfully demonstrates:
 
 The cleaned dataset, dashboards, SQL queries, Python notebooks and Top 10 products CSV are organized for easy reference and reproducibility.
 
+
+🔗 Connect With Me
+
+👉 LinkedIn: [www.linkedin.com/in/ponnaluri-sravan-kumar-b06567339](https://www.linkedin.com/in/ponnaluri-sravan-kumar-b06567339/)
+
