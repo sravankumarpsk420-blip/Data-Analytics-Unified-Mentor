@@ -109,3 +109,7 @@ The coffee sales analysis provides clear insights into:
 These insights can inform inventory management, marketing strategies, and pricing decisions to maximize revenue and improve customer satisfaction.
 
 
+🔗 Connect With Me
+
+👉 LinkedIn: [www.linkedin.com/in/ponnaluri-sravan-kumar-b06567339](https://www.linkedin.com/in/ponnaluri-sravan-kumar-b06567339/)
+
