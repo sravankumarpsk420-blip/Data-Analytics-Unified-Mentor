@@ -60,10 +60,10 @@ Represent societal well-being, lifestyle, and behavioral habits.
 
 🛠️ **Tools Used:**
 
-**Excel** : Data cleaning & arrangement
-**Python** : EDA, Correlation, Visualization, Modeling
-**SQL** : Analytical queries
-**Power BI** : Interactive dashboard, KPIs, trends
+- **Excel** : Data cleaning & arrangement
+- **Python** : EDA, Correlation, Visualization, Modeling
+- **SQL** : Analytical queries
+- **Power BI** : Interactive dashboard, KPIs, trends
 
 ---
 
