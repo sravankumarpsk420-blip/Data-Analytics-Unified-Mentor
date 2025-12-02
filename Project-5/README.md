@@ -92,9 +92,9 @@ Diphtheria also has a strong positive correlation: 0.43
 - HIV prevalence (–0.50)
 - Thinness indicators (–0.39 each)
 
-**📌 Countries with low life expectancy invest much less in healthcare. Increasing healthcare allocation is essential for improving public health and lifespan.**
-**📌 Adult mortality has the highest negative impact on life expectancy (–0.60). Infant & under-5 deaths also reduce life expectancy but with smaller correlations (–0.17 and –0.19). Improving emergency care, maternal health, and medical infrastructure is crucial.**
-**📌 BMI positively correlated (0.50) → Healthy weight = longer lifespan. Alcohol shows positive correlation (0.35). Moderate alcohol consumption in some developed countries biases the result. Does not imply alcohol increases lifespan. Lifestyle has a meaningful influence but contextual.**
+- **📌 Countries with low life expectancy invest much less in healthcare. Increasing healthcare allocation is essential for improving public health and lifespan.**
+- **📌 Adult mortality has the highest negative impact on life expectancy (–0.60). Infant & under-5 deaths also reduce life expectancy but with smaller correlations (–0.17 and –0.19). Improving emergency care, maternal health, and medical infrastructure is crucial.**
+- **📌 BMI positively correlated (0.50) → Healthy weight = longer lifespan. Alcohol shows positive correlation (0.35). Moderate alcohol consumption in some developed countries biases the result. Does not imply alcohol increases lifespan. Lifestyle has a meaningful influence but contextual.**
 **📌 Schooling is a major driver of better life outcomes.**
 **📌 Alcohol does not directly increase life expectancy.**
 **📌 Population density has no significant impact on life expectancy.**
