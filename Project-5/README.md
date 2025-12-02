@@ -14,11 +14,11 @@ The project's primary aim is to analyze how health, economic, and social factors
 
 🎯 Objectives
 
-Identify which predicting factors significantly affect life expectancy.
-Analyze mortality rates and their influence on lifespan.
-Understand the impact of immunization and disease prevalence.
-Assess the relationship between lifestyle, economic status, and social well-being on life expectancy.
-Provide actionable insights for countries with low life expectancy (<65 years).
+- Identify which predicting factors significantly affect life expectancy.
+- Analyze mortality rates and their influence on lifespan.
+- Understand the impact of immunization and disease prevalence.
+- Assess the relationship between lifestyle, economic status, and social well-being on life expectancy.
+- Provide actionable insights for countries with low life expectancy (<65 years).
 
 ## 📂 Data Description
 Categories of Factors Considered
@@ -26,20 +26,20 @@ Categories of Factors Considered
 To simplify the analysis, all variables were grouped into four broad categories:
 
 **1. Immunization Factors**
-Hepatitis-B
-Polio
-Measles
-Diphtheria
+- Hepatitis-B
+- Polio
+- Measles
+- Diphtheria
 These indicate vaccination coverage and readiness against infectious diseases.
 
 **2. Mortality Factors**
-Adult Mortality
-Infant Deaths
-Under-5 Deaths
-BMI
-HIV/AIDS
-Thinness (1–19 years)
-Thinness (5–9 years)
+- Adult Mortality
+- Infant Deaths
+- Under-5 Deaths
+- BMI
+- HIV/AIDS
+- Thinness (1–19 years)
+- Thinness (5–9 years)
 Indicators reflecting death risk and general health conditions.
 
 **3. Economic Factors**
