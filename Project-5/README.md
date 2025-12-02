@@ -84,6 +84,7 @@ Diphtheria also has a strong positive correlation: 0.43
 
 ## 🧭 Research Questions — Insights from Data
 📌 Most selected factors show strong relationships with life expectancy.
+
 **Top positive predictors**:
 - Income Composition (0.58)
 - Schooling (0.56)
