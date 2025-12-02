@@ -72,8 +72,10 @@ Represent societal well-being, lifestyle, and behavioral habits.
 ### A. Mortality Analysis
 **a) Adult Mortality**
 - Higher adult mortality sharply decreases life expectancy. This is supported by the correlation: adult mortality = –0.60.
+  
 **b) Infant Death Analysis**
 - Infant deaths are negatively correlated (–0.17) with life expectancy, but the effect is not as strong as adult mortality.
+  
 **c) Polio Immunization Impact**
 - Countries with high immunization coverage have significantly higher life expectancy, supported by Polio correlation: 0.42
 Diphtheria also has a strong positive correlation: 0.43
